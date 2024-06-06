@@ -1,4 +1,3 @@
-```markdown
 # Covert Channel Project
 
 This repository contains three Python scripts for implementing a covert channel communication system using ICMP packets.
@@ -58,4 +57,3 @@ To use the covert channel:
 - `scapy`: Packet manipulation library.
 - `cryptography`: Cryptography library.
 - `zlib`: Compression library.
-```
